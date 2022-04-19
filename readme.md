@@ -1,3 +1,17 @@
+# Eye Movement
+
+<img src="eyes.png" width="300">
+
+## Description
+
+This project tracks the movement of your mouse with the eyeballs. Both eyes move synchronously following your mouse on the page.
+
+## Installation
+
+Download the files into a directory of your liking and click on the index.html file or open the file from the browser of your choice and move the mouse inside the browser window.
+
+## License
+
 MIT License
 
 Copyright (c) 2022 JFernandez0524
