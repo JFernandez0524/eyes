@@ -8,8 +8,8 @@ This project tracks the movement of your mouse with the eyeballs. Both eyes move
 
 ## Installation
 
-Download the files into a directory of your liking and click on the index.html file or open the file from the browser of your choice and move the mouse inside the browser window.
-<a href="https://jfernandez0524.github.io/eyes/">View Repo Here</a>
+Download the files into a directory of your liking and click on the index.html file or open the file from the browser of your choice and move the mouse inside the browser window.<br><br>
+<a href="https://jfernandez0524.github.io/eyes/" target="_blank">View Repo Here</a>
 
 ### Other Repos
 
